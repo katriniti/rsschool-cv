@@ -16,3 +16,10 @@ My goal is to realize myself as a qualified IT specialist. My main priorities ar
 * Git
 * VSCode
 * Adobe Photoshop
+
+### Code Example
+```
+function multiply(a, b){
+  return a * b
+}
+```
