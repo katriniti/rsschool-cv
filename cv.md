@@ -23,3 +23,6 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+### Educational projects
+* [CV](https://katriniti.github.io/rsschool-cv/cv)
