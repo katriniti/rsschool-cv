@@ -26,3 +26,6 @@ function multiply(a, b){
 
 ### Educational projects
 * [CV](https://katriniti.github.io/rsschool-cv/cv)
+
+### Education
+Graduated from Medical College in 2015.
