@@ -29,3 +29,6 @@ function multiply(a, b){
 
 ### Education
 Graduated from Medical College in 2015.
+
+### English
+A1.
